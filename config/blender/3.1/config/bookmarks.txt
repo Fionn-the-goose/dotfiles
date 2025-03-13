@@ -1,0 +1,11 @@
+[Bookmarks]
+[Recent]
+/home/goose/unity/space-Job/Assets/Models/blend/
+/home/goose/unity/space-Job/Assets/Textures/
+/home/goose/unity/space-Job/Assets/Models/
+/tmp/
+/home/goose/Pictures/
+/home/goose/unity/space-Job/Assets/
+/home/goose/unity/ExplodingChicks/ExplodingChicks/Assets/models/
+/home/goose/unity/ExplodingChicks/ExplodingChicks/Assets/blender/
+/home/goose/unity/ExplodingChicks/ExplodingChicks/Assets/MAPS/

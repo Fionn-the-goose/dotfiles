@@ -1,0 +1,11 @@
+[Bookmarks]
+[Recent]
+/home/goose/Pictures/
+/home/goose/Documents/
+/home/goose/stl/
+/home/goose/unity/Goose-Loop/G-Loop/Assets/Models/
+/home/goose/unity/Goose-Loop/G-Loop/Assets/goose/
+/home/goose/Documents/S5/CG/Assignments/CGLabErickson121588_Trojan121067/resources/models/
+/home/goose/Documents/S5/CG/Assignments/CGLabErickson121588_Trojan121067/resources/
+/home/goose/Documents/S5/CG/Assignments/CGLabErickson121588_Trojan121067/resources/textures/
+/home/goose/unity/

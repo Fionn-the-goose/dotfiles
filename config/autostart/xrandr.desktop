@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=xrandr --output Displayport-2 --primary --output DisplayPort-1 --right-of DisplayPort-2 --output HDMI-A-0 --right-of DisplayPort-1
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Display-setup
+Name=Display-setup
+Comment[en_US]=jes jes nice and purrfect
+Comment=jes jes nice and purrfect

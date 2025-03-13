@@ -1,0 +1,4 @@
+[Bookmarks]
+[Recent]
+/home/goose/blender/
+/home/goose/unity/space-Job/Assets/Models/

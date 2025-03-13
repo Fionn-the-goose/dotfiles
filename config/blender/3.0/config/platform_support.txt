@@ -1,0 +1,2 @@
+{ATI Technologies Inc./AMD Radeon RX 5600 XT/4.5.14739 Core Profile Context 21.30}=SUPPORTED
+{ATI Technologies Inc./AMD Radeon RX 5600 XT/4.5.14739 Core Profile Context}=SUPPORTED
