@@ -1,0 +1,27 @@
+Object ▸ Set Origin ▸ Origin to Geometry
+Generate ▸ Boolean
+   Roof
+   Walls
+   WindowFrame
+ 0 Material.001
+Mesh ▸ Normals (Alt N) ▸ Flip
+Object ▸ Set Origin ▸ Geometry to Origin
+Image Texture ▸ Color
+Group
+Add (Shift A) ▸ Shader ▸ Metallic BSDF
+   Metal
+Add (Shift A) ▸ Shader ▸ Glass BSDF
+  crawl_demo
+Mesh ▸ Merge (M) ▸ By Distance
+Generate ▸ Remesh
+Generate ▸ Skin
+Face (Ctrl F) ▸ Extrude Individual Faces
+Select ▸ Checker Deselect
+Vertex (Ctrl V) ▸ Bevel Vertices|Shift Ctrl B
+Generate ▸ Array
+Deform ▸ Curve
+Generate ▸ Mirror
+Generate ▸ Solidify
+Snap (Shift S) ▸ Cursor to Selected
+Generate ▸ Subdivision Surface
+Object ▸ Set Origin ▸ Origin to 3D Cursor

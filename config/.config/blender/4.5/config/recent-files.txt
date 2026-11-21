@@ -1,0 +1,20 @@
+/home/goose/Downloads/poor silly capybara reco/Swarm_Fish.blend
+/home/goose/Downloads/poor silly capybara reco/reco.blend
+/home/goose/git/bug-game/Assets/Models/Blend/emporer_caterpillar.blend
+/home/goose/git/bug-game/Assets/Models/Blend/japanese_Orbweaver.blend
+/home/goose/git/bug-game/Assets/Models/Blend/common_house_fly.blend
+/home/goose/git/bug-game/Assets/Models/Blend/himbeerblatt.blend
+/home/goose/git/bug-game/Assets/Models/Blend/Debug_Assets.blend
+/home/goose/turdisagram.blend
+/home/goose/git/bug-game/Assets/Models/Blend/enviroment_testing.blend
+/home/goose/git/bug-game/Assets/Models/Blend/Connectoren.blend
+/home/goose/git/bug-game/Assets/Models/Blend/CucumberVariants.blend
+/home/goose/git/bug-game/Assets/Models/Blend/hatchling_chonky.blend
+/home/goose/git/bug-game/Assets/Models/Blend/common_ant.blend
+/home/goose/git/bug-game/Assets/Models/Blend/hummel02.blend
+/home/goose/git/bug-game/Assets/Models/Blend/snail.blend
+/home/goose/Videos/bugposter.blend
+/home/goose/git/bug-game/Assets/Models/Blend/Bumblebee.blend
+/home/goose/git/bug-game/Assets/Models/Blend/big_bublebee.blend
+/home/goose/git/bug-game/Assets/Models/Blend/RaupiHatchlings.blend
+/home/goose/git/bug-game/Assets/Models/Blend/cluster_strauch.blend

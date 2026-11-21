@@ -1,0 +1,18 @@
+[Bookmarks]
+/home/goose/git/pipeworks/blender/
+/home/goose/git/pipeworks/pixyz/med/
+/home/goose/git/pipeworks/pipeworks-ggg-unity/Assets/Models/editedGLB/
+/home/goose/git/bug-game/Assets/Models/Blend/
+/home/goose/git/bug-game/Assets/Textures/Drawn/Blackberry_ripe_000 (2)/berry/
+[Recent]
+/home/goose/git/bug-game/Assets/Models/Blend/
+/home/goose/git/bug-game/Assets/Textures/Drawn/common_ant/
+!Home
+/home/goose/
+/home/goose/Downloads/
+/home/goose/git/Backbrain/uni/bachelor_thesis/synthetische-risse/blend/
+/home/goose/git/Backbrain/uni/bachelor_thesis/synthetische-risse/render/
+/home/goose/git/Backbrain/uni/bachelor_thesis/synthetische-risse/
+/tmp/
+/home/goose/new-game-project/Assets/Mesh/
+/home/goose/new-game-project/Assets/Texture/

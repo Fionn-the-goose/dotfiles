@@ -1,0 +1,3 @@
+{AMD/AMD Radeon RX 5600 XT (NAVI10, DRM 3.40.0, 5.11.0-27-generic, LLVM 12.0.0)/4.6 (Core Profile) Mesa 21.0.3}=SUPPORTED
+{AMD/AMD Radeon RX 5600 XT (NAVI10, DRM 3.40.0, 5.11.0-34-generic, LLVM 12.0.0)/4.6 (Core Profile) Mesa 21.0.3}=SUPPORTED
+{ATI Technologies Inc./AMD Radeon RX 5600 XT/4.5.14739 Core Profile Context 21.30}=SUPPORTED

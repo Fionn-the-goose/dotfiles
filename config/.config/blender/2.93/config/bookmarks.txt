@@ -1,0 +1,11 @@
+[Bookmarks]
+[Recent]
+!Home
+/home/goose/
+/home/goose/unity/Goose-Loop/G-Loop/Assets/
+/home/goose/Pictures/
+/home/goose/Documents/S5/CG/Assignments/CGLabErickson121588_Trojan121067/resources/models/
+/home/goose/Documents/
+/home/goose/unity/interioer/Interioer/Assets/Models/
+/home/goose/blender/
+/tmp/

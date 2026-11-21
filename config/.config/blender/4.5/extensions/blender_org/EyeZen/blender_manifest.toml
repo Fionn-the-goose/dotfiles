@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "EyeZen"
+version = "1.0.4"
+name = "Eye Zen"
+tagline = "A Relaxing Theme"
+maintainer = "Sekuora"
+type = "theme"
+tags = ["Dark", "Print"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]

@@ -1,0 +1,222 @@
+Mesh ▸ Normals (Alt N) ▸ Flip
+Hair ▸ Guides ▸ Curl Hair Curves
+View ▸ Viewport Render Image
+Add (Shift A) ▸ Point ▸ Distribute Points on Faces
+Add (Shift A) ▸ Mesh ▸ Operations ▸ Extrude Mesh
+Add (Shift A) ▸ Utilities ▸ Random Value
+Merge Selected Nodes ▸ Use Geometry Nodes ▸ Join Geometry
+Combine XYZ ▸ Vector
+  Geometry Nodes
+Generate ▸ Screw
+  BézierCurve.001
+Vertex (Ctrl V) ▸ Bevel Vertices|Shift Ctrl B
+Add (Shift A) ▸ Hair ▸ Read ▸ Curve Info
+   farn
+Group.001
+Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Subdivision Surface
+Edge (Ctrl E) ▸ Bevel Edges|Ctrl B
+Object ▸ Relations ▸ Make Single User ▸ Object
+File ▸ External Data ▸ Unpack Linked Libraries
+Object ▸ Apply (Ctrl A) ▸ Make Instances Real
+Object ▸ Relations ▸ Make Single User ▸ Object & Data
+Mesh ▸ Snap ▸ Cursor to Selected
+abomen.002
+torax.003
+torax.002
+Object ▸ Convert ▸ Mesh
+Pose ▸ Apply (Ctrl A) ▸ Apply Pose as Rest Pose
+  Empty
+Face (Ctrl F) ▸ Extrude Faces Along Normals
+  BézierCircle
+  BézierCurve
+root
+Select ▸ Select Similar (Shift G) ▸ Seam
+L  blocky.png|[CR flat marker.asset.blend]
+L  b8.png|[CR rake mixer.asset.blend]
+   EmporerCaterpillar_001
+UV (U) ▸ Unwrap Conformal
+Edge (Ctrl E) ▸ Mark Seam
+UV (U) ▸ Smart UV Project
+   EmperorCaterpillar_legs
+   EmperorCaterpillar_Body
+FrontSpine
+FrontSpine.001
+FrontSpine.002
+Bone
+PseudoHip.r
+PseudoHip.l
+Thorax02
+Armature ▸ Delete (X) ▸ Dissolve Bones|Ctrl X
+  target
+  controller
+  Icosphere
+  Cube.009
+  Armature
+Root
+Channel ▸ Add F-Curve Modifier ▸ Noise|Shift Ctrl M
+Plane
+Mesh ▸ Normals (Alt N) ▸ Merge
+Mesh ▸ Merge (M) ▸ Collapse
+Add (Shift A) ▸ Grid
+Add (Shift A) ▸ Curve ▸ Sapling Tree Gen
+Point ▸Group|Float
+Point ▸beat_ring|Float
+Point ▸beat_ring_two|Float
+shaft
+ground
+Group
+Face (Ctrl F) ▸ Extrude Individual Faces
+Mesh ▸ Separate ▸ By Loose Parts|P
+   brerry
+   brerry-Colour.png
+   BlattGezeichnetVer2.png
+   Material.001-Colour.png
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Copy UV Maps
+UV (U) ▸ Mark Seam
+Face (Ctrl F) ▸ Triangles to Quads|Alt J
+Mesh ▸ Merge (M) ▸ At First
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+neck.004
+Edge (Ctrl E) ▸ Clear Sharp
+Face (Ctrl F) ▸ Grid Fill
+Snap (Shift S) ▸ Cursor to Selected
+Snap (Shift S) ▸ Selection to Cursor
+   default
+Shader ▸ Glossy BSDF
+Add (Shift A) ▸ Shader ▸ Diffuse BSDF
+Node ▸ Swap (Shift S) ▸ Input ▸ Light Path ▸ Ray Depth
+Add (Shift A) ▸ Input ▸ Light Path ▸ Ray Depth
+Add (Shift A) ▸ Input ▸ Light Path ▸ Ray Length
+Add (Shift A) ▸ Color ▸ Mix Color ▸ Multiply
+Add (Shift A) ▸ Input ▸ Fresnel
+Add (Shift A) ▸ Texture ▸ Noise Texture
+Add (Shift A) ▸ Utilities ▸ Math ▸ Math
+Image Texture ▸ Color
+   2026-07-29-094726_726x519_scrot.png
+ 0 2026-07-29-115113_1279x828_scrot.png
+Generate ▸ Bevel
+Mesh ▸ Merge (M) ▸ By Distance
+Sculpt ▸ Smooth
+L  Texture.001|[CR flat marker.asset.blend]
+Open Recent ▸ Catterpillar.blend
+  Bfont Regular.001
+Add (Shift A) ▸ Shader ▸ Glossy BSDF
+Add (Shift A) ▸ Shader ▸ Mix Shader
+  Vert.002_cell.011Action
+  Vert.002_cell.004Action
+  ArmatureAction
+  CaterpillarArmature.001Action
+Armature ▸ Bone Roll ▸ Set Roll|Ctrl R
+   Light
+Add (Shift A) ▸ Input ▸ Constant ▸ Color
+   BézierCircle
+Add (Shift A) ▸ Shader ▸ Transparent BSDF
+Add (Shift A) ▸ Shader ▸ Translucent BSDF
+Select ▸ Checker Deselect
+   NurbsPath
+Edge (Ctrl E) ▸ Subdivide
+Mesh ▸ Clean Up ▸ Decimate Geometry
+Mesh ▸ Delete (X) ▸ Collapse Edges & Faces
+Generate ▸ Decimate
+UV (U) ▸ Smart UV Project...
+   Untitled
+   Material.001
+  Bfont Regular
+0 League Spartan Thin
+  League Spartan Bold
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Copy Constraints
+Object ▸ Animation ▸ Clear Keyframes...
+Object ▸ Scatter Objects
+   Collection 4
+Object ▸ Set Origin ▸ Origin to Geometry
+   Material.006
+   Material.009
+Add (Shift A) ▸ Filter ▸ Blur ▸ Blur
+Generate ▸ Scatter on Surface
+   planes
+   planes.001
+Channel ▸ Extrapolation Mode ▸ Clear Cyclic (F-Modifier)|Shift E
+Channel ▸ Extrapolation Mode ▸ Make Cyclic (F-Modifier)|Shift E
+Armature ▸ Symmetrize
+   BézierCurve
+   Texture
+   BézierCurve.001
+Generate ▸ Array
+   BézierCurve.002
+Object ▸ Set Origin ▸ Geometry to Origin
+Utilities ▸ Vector ▸ Vector Rotate
+Texture ▸ Voronoi Texture
+Add (Shift A) ▸ Color ▸ Color Ramp
+Deform ▸ Curve
+   BézierCurve.010
+Object ▸ Collection ▸ Link to Collection (Shift M) ▸ Hairs
+Select ▸ Select Linked ▸ Particle System|Shift L
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Link Object Data
+   Hairs
+   Material
+   GooseSjkin.001
+   GooseSjkin
+   Material.002
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Copy Modifiers
+   Material.004
+Add (Shift A) ▸ Camera & Lens Effects ▸ Chromatic Aberration
+Add (Shift A) ▸ Creative ▸ Dithering
+Add (Shift A) ▸ Color ▸ RGB to BW
+Add (Shift A) ▸ Color ▸ Adjust ▸ Brightness/Contrast
+Disable Bone Options (Alt W) ▸ Deform
+
+Mesh ▸ Transform ▸ Flatten
+Add (Shift A) ▸ Geometry ▸ Operations ▸ Displace Geometry
+Add (Shift A) ▸ Texture ▸ Voronoi Texture
+Empty ▸ Plain Axes
+Add (Shift A) ▸ Utilities ▸ Vector ▸ Vector Math ▸ Distance
+Add (Shift A) ▸ Point ▸ Points to Curves
+Add (Shift A) ▸ Geometry ▸ Operations ▸ Merge Points
+Node ▸ Cut
+Add (Shift A) ▸ Mesh ▸ Primitives ▸ Mesh Line
+Add (Shift A) ▸ Utilities ▸ Matrix ▸ Transform Direction
+Add (Shift A) ▸ Input ▸ Scene ▸ Camera Info ▸ Clip End
+Add (Shift A) ▸ Output ▸ Viewer
+Add (Shift A) ▸ Geometry ▸ Read ▸ Position
+Add (Shift A) ▸ Input ▸ Constant ▸ Vector
+Unassigned ▸ Geometry Nodes
+Add (Shift A) ▸ Mesh ▸ Operations ▸ Subdivide Mesh
+Add (Shift A) ▸ Mesh ▸ Operations ▸ Mesh to Points
+Add (Shift A) ▸ Geometry ▸ Join Geometry
+Generate ▸ Remesh
+Object ▸ Apply (Ctrl A) ▸ Visual Geometry to Mesh
+Add (Shift A) ▸ Geometry ▸ Sample ▸ Sample Nearest
+Add (Shift A) ▸ Geometry ▸ Operations ▸ Transform Geometry
+Capture Attribute ▸ Geometry
+Add (Shift A) ▸ Geometry ▸ Sample ▸ Geometry Proximity
+Geometry ▸ Read ▸ Position
+Node ▸ Move|G
+Add (Shift A) ▸ Geometry ▸ Write ▸ Set Position
+Add (Shift A) ▸ Instances ▸ Instance on Points
+Add (Shift A) ▸ Mesh ▸ Primitives ▸ Cube
+Add (Shift A) ▸ Point ▸ Points
+Add (Shift A) ▸ Input ▸ Constant ▸ Value
+   Empty.001
+Add Modifier ▸ Geometry Nodes
+  Spider Eye
+Add (Shift A) ▸ Group ▸ Group Input
+Add (Shift A) ▸ Input ▸ Scene ▸ Collection Children
+Geometry Input ▸Object
+Object Info ▸ Object
+Add (Shift A) ▸ Input ▸ Scene ▸ Collection Info
+   Eyes
+Add (Shift A) ▸ Utilities ▸ List ▸ Sort List
+Add (Shift A) ▸ Mesh ▸ Primitives ▸ UV Sphere
+Edge (Ctrl E) ▸ Mark Sharp
+Deform ▸ Shrinkwrap
+Generate ▸ Solidify
+Edge (Ctrl E) ▸ Bridge Edge Loops
+Mesh ▸ Normals (Alt N) ▸ Recalculate Outside|Shift N
+Generate ▸ Boolean
+Generate ▸ Mirror
+Generate ▸ Skin
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Link Materials
+View ▸ Render Viewport Preview
+Generate ▸ Subdivision Surface
+Deform ▸ Displace
+   Empty

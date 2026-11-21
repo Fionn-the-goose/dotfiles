@@ -1,0 +1,16 @@
+{
+    "last_check": "2026-05-28 16:56:39.744798",
+    "backup_date": "May-11-2026",
+    "update_ready": true,
+    "ignore": false,
+    "just_restored": false,
+    "just_updated": false,
+    "version_text": {
+        "link": "https://gitlab.com/api/v4/projects/22294607/repository/archive.zip?sha=321d411a449bc9acee2a759e30cd3d0f36bbd2ab",
+        "version": [
+            2,
+            4,
+            1
+        ]
+    }
+}

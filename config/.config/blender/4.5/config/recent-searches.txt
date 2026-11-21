@@ -1,0 +1,171 @@
+Mesh ▸ Normals (Alt N) ▸ Flip
+Hair ▸ Guides ▸ Curl Hair Curves
+Add (Shift A) ▸ Instances ▸ Instance on Points
+Add (Shift A) ▸ Point ▸ Distribute Points on Faces
+   BlattGezeichnetVer2.png
+Add Modifier ▸ Geometry Nodes
+Add (Shift A) ▸ Mesh ▸ Operations ▸ Extrude Mesh
+Add (Shift A) ▸ Utilities ▸ Random Value
+Merge Selected Nodes ▸ Use Geometry Nodes ▸ Join Geometry
+Combine XYZ ▸ Vector
+  Geometry Nodes
+  BézierCurve.001
+Vertex (Ctrl V) ▸ Bevel Vertices|Shift Ctrl B
+Add (Shift A) ▸ Hair ▸ Read ▸ Curve Info
+   farn
+Group.001
+Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Subdivision Surface
+Edge (Ctrl E) ▸ Bevel Edges|Ctrl B
+Edge (Ctrl E) ▸ Subdivide
+   Material.001
+Object ▸ Relations ▸ Make Single User ▸ Object
+File ▸ External Data ▸ Unpack Linked Libraries
+Object ▸ Apply (Ctrl A) ▸ Make Instances Real
+Object ▸ Relations ▸ Make Single User ▸ Object & Data
+Mesh ▸ Snap ▸ Cursor to Selected
+Generate ▸ Remesh
+abomen.002
+torax.003
+torax.002
+Object ▸ Convert ▸ Mesh
+Face (Ctrl F) ▸ Extrude Faces Along Normals
+  BézierCircle
+Object ▸ Set Origin ▸ Geometry to Origin
+root
+Mesh ▸ Normals (Alt N) ▸ Merge
+L  Texture.001|[CR flat marker.asset.blend]
+L  blocky.png|[CR flat marker.asset.blend]
+L  b8.png|[CR rake mixer.asset.blend]
+UV (U) ▸ Unwrap Conformal
+   EmperorCaterpillar_legs
+   EmperorCaterpillar_Body
+  Empty
+Add (Shift A) ▸ Grid
+Mesh ▸ Merge (M) ▸ Collapse
+Group
+Generate ▸ Decimate
+Normals ▸ Smooth by Angle
+Object ▸ Modifiers ▸ Add Modifier ▸ Normals ▸ Smooth by Angle
+ 0 Nail
+ 0 Glass
+Select ▸ Checker Deselect
+Face (Ctrl F) ▸ Grid Fill
+tip
+mouth
+Generate ▸ Screw
+   404-Hlbfm6J7VR8-unsplash.jpg
+Add (Shift A) ▸ Shader ▸ Translucent BSDF
+   Glass
+Image Texture ▸ Color
+   Grreen
+Add (Shift A) ▸ Converter ▸ Color Ramp
+   Wood
+   feet.003
+   tabletop.png
+Add (Shift A) ▸ Camera
+   White.002
+   shrek.png
+  controll
+Object ▸ Shade Auto Smooth
+Object ▸ Rigid Body ▸ Add Passive
+Edge (Ctrl E) ▸ Clear Sharp
+Object ▸ Rigid Body ▸ Add Active
+  Sphere.001Action
+Object ▸ Animation ▸ Bake Action...
+Object ▸ Rigid Body ▸ Bake to Keyframes
+File ▸ Link...
+Channel ▸ Add F-Curve Modifier ▸ Noise|Shift Ctrl M
+ 0 Texture
+stem
+Generate ▸ Array
+Pose ▸ Apply (Ctrl A) ▸ Apply Pose as Rest Pose
+  Vert.002_cell.008Action
+  CaterpillarArmature.001Action
+Object ▸ Shade Smooth
+View ▸ Navigation ▸ Roll Left|Shift Numpad 4
+View ▸ Navigation ▸ Roll Right|Shift Numpad 6
+Object ▸ Snap ▸ Cursor to Selected
+   Material.004
+   Render Result
+   chonky_hatchling
+   Bug_Chonky
+   SmallHatchling
+   Bug_Small
+   handsome_hatchling
+Select ▸ Lasso Select ▸ Set
+Add (Shift A) ▸ Shader ▸ Glass BSDF
+Select ▸ Select Similar (Shift G) ▸ Seam
+UV (U) ▸ Mark Seam
+   Bumblebee
+View ▸ Viewport Render Image
+UV ▸ Align (Shift W) ▸ Align Auto
+UV ▸ Unwrap (U) ▸ Smart UV Project
+   Snail
+Object ▸ Quick Effects ▸ Cell Fracture
+Face (Ctrl F) ▸ Triangles to Quads|Alt J
+Mesh ▸ Normals (Alt N) ▸ Recalculate Outside|Shift N
+Edge (Ctrl E) ▸ Mark Sharp
+   Galls
+Snap (Shift S) ▸ Selection to Cursor
+Pose ▸ Apply (Ctrl A) ▸ Apply Selected as Rest Pose
+Pose ▸ Apply (Ctrl A) ▸ Apply Visual Transform to Pose
+Armature ▸ Symmetrize
+Pose ▸ Constraints ▸ Clear Pose Constraints|Ctrl Alt C
+Pose ▸ Constraints ▸ Copy Constraints to Selected Bones
+ 0 Texture.001
+   Texture
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Copy Modifiers
+Disable Bone Options (Alt W) ▸ Deform
+  POLE
+  Empty.005
+0 Appearing
+0 Idle
+F Appearing
+F Idle
+   brerry
+   brerry-Colour.png
+Mesh ▸ Separate ▸ By Loose Parts|P
+Add (Shift A) ▸ Mesh ▸ Parent to Empty
+Deform ▸ Displace
+twig
+leaf
+Deform ▸ Shrinkwrap
+  Head.003
+
+   EmporerCaterpillar_001.001
+   EmporerCaterpillar_001
+Add (Shift A) ▸ Input ▸ Fresnel
+Add (Shift A) ▸ Shader ▸ Mix Shader
+Add (Shift A) ▸ Shader ▸ Transparent BSDF
+Shader ▸ Glass BSDF
+Snap (Shift S) ▸ Cursor to Selected
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+Mesh ▸ Merge (M) ▸ By Distance
+Pose ▸ Animation ▸ Clear Keyframes...
+View ▸ Viewport Render Animation
+   Untitled
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Link Materials
+UV (U) ▸ Cylinder Projection
+UV (U) ▸ Clear Seam
+Edge (Ctrl E) ▸ Mark Seam
+UV (U) ▸ Smart UV Project
+Mesh ▸ Clean Up ▸ Delete Loose
+Generate ▸ Skin
+  Empty.001Action
+0 ArmatureAction.002
+  ArmatureAction
+   .013
+   .010
+   .012
+  Line
+Generate ▸ Solidify
+Object ▸ Set Origin ▸ Origin to Geometry
+Deform ▸ Curve
+  BézierCurve
+Generate ▸ Subdivision Surface
+Generate ▸ Mirror
+Edge (Ctrl E) ▸ Bridge Edge Loops
+   Material
+   Material.002
+Object ▸ Join|Ctrl J
+Object ▸ Apply (Ctrl A) ▸ Visual Geometry to Mesh

@@ -1,0 +1,86 @@
+# i3status configuration file.
+# see "man i3status" for documentation.
+
+# It is important that this file is edited as UTF-8.
+# The following line should contain a sharp s:
+# ß
+# If the above line is not correctly displayed, fix your editor first!
+
+general {
+        colors = true
+        interval = 1
+}
+
+#order += "read_file mensa"
+#order += "ipv6"
+order += "disk /"
+#order += "ethernet _first_"
+order += "path_exists VPN"
+order += "battery all"
+order += "memory"
+order += "load"
+order += "cpu_usage"
+#order += "cpu_temperature 0"
+order += "cpu_temperature 1"
+order += "volume master"
+order += "tztime local"
+
+read_file mensa {
+    path = "/tmp/mensa"
+    format = "%content"
+}
+
+wireless _first_ {
+        format_up = "W: (%quality at %essid) %ip"
+        format_down = "W: down"
+}
+
+ethernet _first_ {
+        # if you use %speed, i3status requires root privileges
+        format_up = "E: %ip (%speed)"
+        format_down = "E: down"
+}
+
+battery all {
+        format = "%status %percentage %remaining"
+}
+
+memory {
+    format = "%used"
+    threshold_degraded = "10%"
+    format_degraded = "FUCK: %free"
+    }
+
+tztime local {
+        format = "%Y-%m-%d %H:%M:%S"
+}
+
+load {
+        format = "load %1min"
+}
+
+disk "/" {
+        format = "%avail"
+}
+cpu_usage {
+            format = "cpu %usage"
+}
+
+cpu_temperature 0 {
+            format = "c %degrees°C"
+            path = "/sys/devices/pci0000:00/0000:00:18.3/hwmon/hwmon1/temp1_input"
+}
+cpu_temperature 1 {
+            format = "g %degrees°C"
+            path = "/sys/class/drm/card?/device/hwmon/hwmon*/temp1_input"
+}
+volume master {
+            format = "♪ %volume"
+}
+
+path_exists VPN {
+     # path exists when a VPN tunnel launched by nmcli/nm-applet is active
+     path = "/proc/sys/net/ipv4/conf/tun0"
+     format = "VPN"
+     format_down = ""
+}

@@ -1,0 +1,45 @@
+2026/11/17-14:00:24.135 408b Reusing MANIFEST /home/goose/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/11/17-14:00:24.135 408b Recovering log #1117
+2026/11/17-14:00:24.136 408b Reusing old log /home/goose/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/001117.log 
+2026/11/17-14:00:25.023 40bd Compacting 1@1 + 1@2 files
+2026/11/17-14:00:25.040 40bd Generated table #1120@1: 10494 keys, 800474 bytes
+2026/11/17-14:00:25.040 40bd Compacted 1@1 + 1@2 files => 800474 bytes
+2026/11/17-14:00:25.041 40bd compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/11/17-14:00:25.041 40bd Delete type=2 #1118
+2026/11/17-14:00:25.041 40bd Delete type=2 #1115
+2026/11/17-14:26:35.313 40bd Level-0 table #1122: started
+2026/11/17-14:26:35.324 40bd Level-0 table #1122: 4015543 bytes OK
+2026/11/17-14:26:35.326 40bd Delete type=0 #1117
+2026/11/17-14:28:34.875 40be Compacting 1@1 + 1@2 files
+2026/11/17-14:28:34.889 40be Generated table #1123@1: 10608 keys, 811525 bytes
+2026/11/17-14:28:34.890 40be Compacted 1@1 + 1@2 files => 811525 bytes
+2026/11/17-14:28:34.890 40be compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/11/17-14:28:34.890 40be Delete type=2 #1120
+2026/11/17-14:28:34.890 40be Delete type=2 #1122
+2026/11/17-14:33:02.405 40bd Level-0 table #1125: started
+2026/11/17-14:33:02.415 40bd Level-0 table #1125: 3952453 bytes OK
+2026/11/17-14:33:02.417 40bd Delete type=0 #1121
+2026/11/17-14:34:59.305 408b Compacting 1@1 + 1@2 files
+2026/11/17-14:34:59.321 408b Generated table #1126@1: 10686 keys, 819823 bytes
+2026/11/17-14:34:59.321 408b Compacted 1@1 + 1@2 files => 819823 bytes
+2026/11/17-14:34:59.322 408b compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/11/17-14:34:59.323 408b Delete type=2 #1123
+2026/11/17-14:34:59.323 408b Delete type=2 #1125
+2026/11/17-14:41:28.296 40bd Level-0 table #1128: started
+2026/11/17-14:41:28.307 40bd Level-0 table #1128: 3947171 bytes OK
+2026/11/17-14:41:28.308 40bd Delete type=0 #1124
+2026/11/17-14:43:08.892 40bd Compacting 1@1 + 1@2 files
+2026/11/17-14:43:08.909 40bd Generated table #1129@1: 10604 keys, 811859 bytes
+2026/11/17-14:43:08.909 40bd Compacted 1@1 + 1@2 files => 811859 bytes
+2026/11/17-14:43:08.910 40bd compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/11/17-14:43:08.910 40bd Delete type=2 #1128
+2026/11/17-14:43:08.910 40bd Delete type=2 #1126
+2026/11/17-14:51:17.026 40bd Level-0 table #1131: started
+2026/11/17-14:51:17.035 40bd Level-0 table #1131: 3854444 bytes OK
+2026/11/17-14:51:17.036 40bd Delete type=0 #1127
+2026/11/17-14:52:35.944 408b Compacting 1@1 + 1@2 files
+2026/11/17-14:52:35.958 408b Generated table #1132@1: 10580 keys, 811587 bytes
+2026/11/17-14:52:35.958 408b Compacted 1@1 + 1@2 files => 811587 bytes
+2026/11/17-14:52:35.959 408b compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/11/17-14:52:35.959 408b Delete type=2 #1131
+2026/11/17-14:52:35.959 408b Delete type=2 #1129

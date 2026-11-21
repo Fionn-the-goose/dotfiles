@@ -1,0 +1,8 @@
+[Bookmarks]
+[Recent]
+/home/goose/blender/
+/home/goose/Pictures/
+/home/goose/Downloads/
+/home/goose/godot/7d24/models/
+/home/goose/godot/7d24/blender/
+/home/goose/godot/7d24/textures/

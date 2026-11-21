@@ -1,0 +1,40 @@
+schema_version = "1.0.0"
+
+id = "color_helper"
+version = "0.8.0"
+name = "Color Helper"
+tagline = "Palette and color workflow tools"
+maintainer = "Atticus"
+copyright = [
+  "2026 Atticus",
+]
+type = "add-on"
+
+website = "https://github.com/atticus-lv/color_helper"
+tags = ["Material", "Node", "Paint"]
+
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[permissions]
+files = "Import and export palette images and assets"
+clipboard = "Read image and color values from the clipboard"
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "*/__pycache__/",
+  "*.pyc",
+  "*.pyo",
+  ".*",
+  "*.iml",
+  "*.code-workspace",
+  "*.sublime-project",
+  "*.sublime-workspace",
+  "*.zip",
+  "build/",
+  "docs/",
+]

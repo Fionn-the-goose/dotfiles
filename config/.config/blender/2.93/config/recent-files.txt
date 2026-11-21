@@ -1,0 +1,7 @@
+/home/goose/untitled.blend
+/home/goose/unity/interioer/Interioer/Assets/Models/bobby_bones.blend
+/home/goose/unity/interioer/Interioer/Assets/Models/bobby.blend
+/home/goose/unity/interioer/Interioer/Assets/Models/curseddog_bones.blend
+/home/goose/unity/interioer/Interioer/Assets/Models/curseddog.blend
+/home/goose/blender/Donut_Tutorial.blend
+/home/goose/blender/Bett_test_animation.blend

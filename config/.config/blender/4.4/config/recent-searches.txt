@@ -1,0 +1,75 @@
+Channel ▸ Extrapolation Mode ▸ Make Cyclic (F-Modifier)|Shift E
+Face (Ctrl F) ▸ Extrude Individual Faces
+Select ▸ Checker Deselect
+   mayfly_tex.png
+Generate ▸ Screw
+  BézierCurve
+Deform ▸ Mesh Deform
+   Texture
+Mesh ▸ Snap ▸ Cursor to Selected
+Add ▸ Text
+Object ▸ Apply (Ctrl A) ▸ Visual Geometry to Mesh
+Mesh ▸ Separate ▸ Selection|P
+View ▸ Align View ▸ Align Active Camera to View|Ctrl Alt Numpad 0
+Group
+Shader ▸ Volume Scatter
+Output ▸ Viewer
+Color ▸ Mix ▸ Mix Color
+Color ▸ Color Ramp
+Add (Shift A) ▸ Filter ▸ Denoise
+ViewLayer
+Object ▸ Asset ▸ Mark as Asset
+Edge (Ctrl E) ▸ Subdivide
+Add (Shift A) ▸ Geometry ▸ Join Geometry
+Add (Shift A) ▸ Utilities ▸ Random Value
+Add (Shift A) ▸ Color ▸ Color Ramp
+Add (Shift A) ▸ Shader ▸ Glossy BSDF
+Add (Shift A) ▸ Texture ▸ Wave Texture
+Converter ▸ Color Ramp
+   leaf.png
+Add (Shift A) ▸ Vector ▸ Normal Map
+Add (Shift A) ▸ Converter ▸ RGB to BW
+Add (Shift A) ▸ Input ▸ Fresnel
+   Material.007
+   Material.008
+Pivot Point (.) ▸ 3D Cursor
+Snap (Shift S) ▸ Cursor to Selected
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+Object ▸ Set Origin ▸ Geometry to Origin
+   Material.004
+Texture ▸ Image Texture
+   leaf_low.png
+
+Add (Shift A) ▸ Converter ▸ Color Ramp
+ 0 Material.002
+Object ▸ Set Origin ▸ Origin to Geometry
+Add (Shift A) ▸ Instances ▸ Instance on Points
+Add (Shift A) ▸ Point ▸ Distribute Points on Faces
+Deform ▸ Displace
+  Empty
+   Material.001
+   Material.005
+   Material.006
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Link Materials
+Object ▸ Apply (Ctrl A) ▸ All Transforms
+Add (Shift A) ▸ Texture ▸ Image Texture
+Add (Shift A) ▸ Converter ▸ Mix
+Add (Shift A) ▸ Texture ▸ Voronoi Texture
+Deform ▸ Curve
+  BézierCircle
+   Material.003
+   Material.002
+Add (Shift A) ▸ Shader ▸ Holdout
+Shader ▸ Glossy BSDF
+Add (Shift A) ▸ Shader ▸ Mix Shader
+Select ▸ Select Grouped ▸ Color|Shift G
+Add (Shift A) ▸ Texture ▸ Gradient Texture
+Add (Shift A) ▸ Shader ▸ Diffuse BSDF
+Add (Shift A) ▸ Converter ▸ Math
+Generate ▸ Boolean
+Generate ▸ Solidify
+Generate ▸ Array
+Object ▸ Link/Transfer Data (Ctrl L) ▸ Copy Modifiers
+Generate ▸ Subdivision Surface
+Generate ▸ Mirror
+Generate ▸ Skin

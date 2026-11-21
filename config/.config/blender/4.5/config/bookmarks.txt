@@ -1,0 +1,14 @@
+[Bookmarks]
+/home/goose/git/gamejam-themawahl-2026/AeroVorting/Assets/Models/Blend/
+[Recent]
+/home/goose/Downloads/poor silly capybara reco/
+/home/goose/git/bug-game/Assets/Models/Models_FBX/
+/home/goose/git/bug-game/Assets/Models/Blend/
+/mnt/ggg/Mildred/Promo/Gamescom Stand (rodeoratio, bis 12.6.)/Main Character/
+/home/goose/git/bug-game/Assets/Textures/
+/home/goose/git/bug-game/Assets/Models/Models_FBX/DEBUG_models/
+!Home
+/home/goose/
+/home/goose/git/bug-game/Assets/Models/Models_FBX/Props/
+/home/goose/git/bug-game/Assets/Models/Models_FBX/Bugs/
+/home/goose/git/bug-game/Assets/Textures/Bugs/

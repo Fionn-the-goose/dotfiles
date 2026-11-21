@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "Matcha_thema"
+version = "0.0.1"
+name = "Matcha"
+tagline = "matcha & chocolate, made by Yuu"
+maintainer = "YuuYamazu"
+type = "theme"
+
+website = "https://gamebanana.com/members/3097095"
+tags = ["Dark"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]

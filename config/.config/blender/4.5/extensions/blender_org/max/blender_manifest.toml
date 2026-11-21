@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "max"
+version = "1.0.0"
+name = "Max"
+tagline = "Theme inspired by Max"
+maintainer = "Dabidzhi"
+type = "theme"
+tags = ["Inspired By", "Dark"]
+blender_version_min = "4.5.0"
+blender_version_max = "5.1.0"
+license = ["SPDX:GPL-3.0-or-later"]

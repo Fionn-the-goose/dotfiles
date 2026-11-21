@@ -1,0 +1,1 @@
+/home/goose/git/dotfiles-jakob/.config/i3/scripts/volume-notification.sh

@@ -1,0 +1,23 @@
+title = "Saved UI State Settings"
+name = "Blender"
+blender_version = 503
+
+["panel.sortorder"]
+_default = -1
+
+[project]
+last = ""
+
+["temp.window.dimensions"]
+_default = [100.0, 900.0, 200.0, 800.0]
+PREFERENCES = [100.0, 940.0, 350.0, 900.0]
+FILE_BROWSER = [100.0, 1160.0, 350.0, 950.0]
+GRAPH_EDITOR = [50.0, 950.0, 200.0, 780.0]
+IMAGE_EDITOR = [50.0, 1360.0, 50.0, 830.0]
+INFO = [100.0, 1000.0, 300.0, 880.0]
+OUTLINER = [100.0, 550.0, 350.0, 800.0]
+PROJECT = [100.0, 800.0, 500.0, 850.0]
+
+["panel.open"]
+_default = true
+

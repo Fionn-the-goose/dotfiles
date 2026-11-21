@@ -1,0 +1,1 @@
+/home/goose/git/dotfiles-jakob/.vim/autoload/pathogen.vim

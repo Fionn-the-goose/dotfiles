@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/goose/git/bug-game/Assets/Models/Blend/
+/home/goose/git/bug-game/Assets/Models/Models_FBX/
+/home/goose/git/bug-game/Assets/Textures/
+/home/goose/Pictures/
+/home/goose/Downloads/
+/home/goose/git/Blend/blender_files/
+/home/goose/Blender/Assets/
+/home/goose/Blender/Plants/
+/home/goose/git/fly-bye/external/
+/home/goose/Blend/

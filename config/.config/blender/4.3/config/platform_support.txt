@@ -1,0 +1,7 @@
+{AMD/AMD Radeon RX 5600 XT (radeonsi, navi10, LLVM 18.1.8, DRM 3.59, 6.12.1-arch1-1)/4.6 (Core Profile) Mesa 24.3.1-arch1.2}=SUPPORTED
+{AMD/AMD Radeon RX 5600 XT (radeonsi, navi10, LLVM 18.1.8, DRM 3.59, 6.12.3-arch1-1)/4.6 (Core Profile) Mesa 24.3.1-arch1.2}=SUPPORTED
+{AMD/AMD Radeon RX 5600 XT (radeonsi, navi10, LLVM 18.1.8, DRM 3.59, 6.12.4-arch1-1)/4.6 (Core Profile) Mesa 24.3.1-arch1.3}=SUPPORTED
+{AMD/AMD Radeon RX 5600 XT (radeonsi, navi10, LLVM 19.1.7, DRM 3.59, 6.13.1-arch1-1)/4.6 (Core Profile) Mesa 24.3.4-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 5600 XT (radeonsi, navi10, LLVM 19.1.7, DRM 3.59, 6.13.1-arch1-1)/4.6 (Core Profile) Mesa 24.3.4-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 5600 XT (radeonsi, navi10, LLVM 19.1.7, DRM 3.59, 6.13.2-arch1-1)/4.6 (Core Profile) Mesa 24.3.4-arch1.1}=SUPPORTED
+{AMD/AMD Radeon RX 5600 XT (radeonsi, navi10, LLVM 19.1.7, DRM 3.61, 6.13.6-arch1-1)/4.6 (Core Profile) Mesa 24.3.4-arch1.1}=SUPPORTED

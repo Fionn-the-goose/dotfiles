@@ -1,0 +1,16 @@
+[Bookmarks]
+/home/goose/git/pipeworks/blender/
+/home/goose/git/pipeworks/pixyz/med/
+/home/goose/git/pipeworks/pipeworks-ggg-unity/Assets/Models/editedGLB/
+[Recent]
+!Home
+/home/goose/
+/home/goose/git/gamejam-themawahl-2026/AeroVoting/Assets/Models/Blender/
+/home/goose/Blender/
+/home/goose/git/pipeworks/pipeworks-ggg-unity/Assets/Blender/
+/home/goose/git/pipeworks/pipeworks-ggg-unity/Assets/Models/editedGLB/
+/home/goose/git/pipeworks/blender/
+/home/goose/git/pipeworks/pipeworks-ggg-unity/Assets/
+/home/goose/Downloads/
+/home/goose/git/pipeworks/pipeworks-ggg-unity/Assets/Models/originalGLB/
+/home/goose/git/pipeworks/pixyz/med/

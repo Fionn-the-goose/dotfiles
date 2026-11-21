@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "Yet_Another_Orange_Theme"
+version = "1.0.0"
+name = "Yet Another Orange Theme"
+tagline = "A dark modern orange theme for Blender"
+maintainer = "Epsilon"
+type = "theme"
+
+website = "https://github.com/gamingducksl/Blender-Themes"
+tags = ["Dark"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
